@@ -1,0 +1,1 @@
+export const orderStatus = ["WAITING", "FINISHED", "TODELIVERY"]
